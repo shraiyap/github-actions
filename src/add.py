@@ -5,4 +5,4 @@ b = 20
 
 sum = a + b
 
-print("The sum is:", sum)
+print("The sum of two number is:", sum)
